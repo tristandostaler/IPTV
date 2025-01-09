@@ -1,16 +1,15 @@
 # IPTV
 
-https://iptv-org.github.io/?q=streams:%3E0%20languages:fra
+## Sources
+- https://iptv-org.github.io/?q=streams:%3E0%20languages:fra
+- https://raw.githubusercontent.com/djthawks/IPTV-1/refs/heads/master/country/C/canada.m3u
+- https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_canada.m3u8
+- https://raw.githubusercontent.com/iptv-restream/IPTV/refs/heads/master/channels/ca.m3u
+- https://raw.githubusercontent.com/huguesgingras/huguesiptv/refs/heads/master/Quebec
+- https://www.bell.ca/styles/tv/all_languages/all_regions/pdfs/fibechannellist_qc.pdf
 
-https://raw.githubusercontent.com/djthawks/IPTV-1/refs/heads/master/country/C/canada.m3u
-https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_canada.m3u8
-https://raw.githubusercontent.com/iptv-restream/IPTV/refs/heads/master/channels/ca.m3u
 
-https://raw.githubusercontent.com/huguesgingras/huguesiptv/refs/heads/master/Quebec
-
-
-
-Guides:
+## Guides:
 - <option value="5fc771ed8bd622002d0447c0-5fc705dc6b022a002d77efe0:117">117 ICI RDI (RDI)</option>
 - <option value="5fc771ed8bd622002d0447c0-5fc705dc6b022a002d77ef9d:1117">1117 ICI RDI HD (RDIHD)</option>
 - <option value="5fc771ed8bd622002d0447c0-5fc705e6c21207002f8badb0:1208">1208 ICI Tele HD (ICIQCHD)</option>
