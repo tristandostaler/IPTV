@@ -7,7 +7,7 @@
 - https://raw.githubusercontent.com/iptv-restream/IPTV/refs/heads/master/channels/ca.m3u
 - https://raw.githubusercontent.com/huguesgingras/huguesiptv/refs/heads/master/Quebec
 - https://www.bell.ca/styles/tv/all_languages/all_regions/pdfs/fibechannellist_qc.pdf
-
+- https://www.bell.ca/Styles/tv/all_languages/all_regions/pdfs/2-U3753-WHS-Prog-Channel-FIBE-ONT-F.pdf
 
 ## Guides:
 - <option value="5fc771ed8bd622002d0447c0-5fc705dc6b022a002d77efe0:117">117 ICI RDI (RDI)</option>
