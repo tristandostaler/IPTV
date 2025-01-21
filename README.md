@@ -11,6 +11,7 @@
 - https://github.com/dtankdempse/daddylive-m3u/blob/main/vlc_playlist.m3u8
 - Xteve set ffmpeg referer: -referer "https://cookiewebplay.xyz/"
 - https://epg.pw/api/epg.xml?lang=en&channel_id=405180 --> Noovo
+- https://thedaddy.to/24-7-channels.php
 
 ## Guides:
 - <option value="5fc771ed8bd622002d0447c0-5fc705dc6b022a002d77efe0:117">117 ICI RDI (RDI)</option>
